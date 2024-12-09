@@ -4,21 +4,18 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 public class MainMenu : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+
+
+    public void Jugar()
     {
-        
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+
     }
 
-    // Update is called once per frame
-    void Update()
+    public void Salir()
     {
-        
-    }
-
-    public void EscenaJuego()
-    {
-        SceneManager.LoadScene("fpsM");
+        Debug.Log("SALIR...");
+        Application.Quit();
 
 
     }
@@ -27,3 +24,6 @@ public class MainMenu : MonoBehaviour
 
 
 }
+
+
+
