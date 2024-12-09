@@ -5,7 +5,7 @@ public class VictoryScreenController : MonoBehaviour
 {
     public void GoToMainMenu()
     {
-        SceneManager.LoadScene("MenuFPS"); // Reemplaza con el nombre exacto de tu escena de menú principal
+        SceneManager.LoadScene("MenuFPS"); 
     }
 
     public void QuitGame()

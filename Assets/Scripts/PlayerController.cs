@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -53,4 +54,18 @@ public class PlayerController : MonoBehaviour
         playerCamera.transform.localRotation = Quaternion.Euler(verticalRotation, 0, 0);
         transform.Rotate(Vector3.up * mouseX);
     }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("EnemyBullet")) 
+        {
+            Cursor.lockState = CursorLockMode.None;
+            Cursor.visible = true;
+
+            Destroy(gameObject);
+            SceneManager.LoadScene("Moriste");
+
+        }
+    }
+
 }
