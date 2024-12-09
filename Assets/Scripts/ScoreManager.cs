@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class ScoreManager : MonoBehaviour
@@ -32,19 +33,9 @@ public class ScoreManager : MonoBehaviour
     {
         if (score >= victoryScore) 
         {
-            ShowVictoryMessage(); 
+            SceneManager.LoadScene("Ganaste");
         }
     }
 
-   
-    void ShowVictoryMessage()
-    {
-        victoryText.gameObject.SetActive(true); 
-        victoryText.text = "¡Victoria! Puntaje Final: " + score;
-    }
-
-    internal void AddScore(float scoreValue)
-    {
-        throw new NotImplementedException();
-    }
+  
 }
