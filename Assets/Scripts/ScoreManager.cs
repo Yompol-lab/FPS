@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -6,7 +7,7 @@ public class ScoreManager : MonoBehaviour
     public Text scoreText; 
     public Text victoryText; 
     private int score = 0; 
-    private int victoryScore = 520; 
+    private int victoryScore = 50; 
 
     void Start()
     {
@@ -23,7 +24,7 @@ public class ScoreManager : MonoBehaviour
 
     void UpdateScoreText()
     {
-        scoreText.text = "Puntaje: " + score;
+        scoreText.text = "Kills: " + score;
     }
 
    
@@ -40,5 +41,10 @@ public class ScoreManager : MonoBehaviour
     {
         victoryText.gameObject.SetActive(true); 
         victoryText.text = "¡Victoria! Puntaje Final: " + score;
+    }
+
+    internal void AddScore(float scoreValue)
+    {
+        throw new NotImplementedException();
     }
 }

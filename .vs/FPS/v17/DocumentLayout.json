@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "E:\\Unity\\motores1\\Motores1\\FPS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|e:\\unity\\motores1\\motores1\\fps\\assets\\scripts\\enemynavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|e:\\unity\\motores1\\motores1\\fps\\assets\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|e:\\unity\\motores1\\motores1\\fps\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|E:\\Unity\\motores1\\Motores1\\FPS\\assets\\scripts\\wallpush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wallpush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|E:\\Unity\\motores1\\Motores1\\FPS\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|E:\\Unity\\motores1\\Motores1\\FPS\\assets\\scripts\\enemynavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemynavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|e:\\unity\\motores1\\motores1\\fps\\assets\\scripts\\pasando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|E:\\Unity\\motores1\\Motores1\\FPS\\assets\\scripts\\pasando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pasando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|E:\\Unity\\motores1\\Motores1\\FPS\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|E:\\Unity\\motores1\\Motores1\\FPS\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\PlayerFallHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\PlayerFallHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\ScoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\ScoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\DeadeyeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,6 +75,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerHealth.cs",
+              "ToolTip": "E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\PlayerHealth.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T02:40:44.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WallPush.cs",
+              "DocumentMoniker": "E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\WallPush.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WallPush.cs",
+              "ToolTip": "E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\WallPush.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WallPush.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T22:15:38.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EnemyNavigation.cs",
               "DocumentMoniker": "E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\EnemyNavigation.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyNavigation.cs",
@@ -74,12 +107,11 @@
               "RelativeToolTip": "Assets\\Scripts\\EnemyNavigation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T21:05:56.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T21:05:56.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "pasando.cs",
               "DocumentMoniker": "E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\pasando.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\pasando.cs",
@@ -87,24 +119,24 @@
               "RelativeToolTip": "Assets\\Scripts\\pasando.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T20:23:09.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T20:23:09.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "EnemyAI.cs",
               "DocumentMoniker": "E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\EnemyAI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
               "ToolTip": "E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\EnemyAI.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAiwEgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T22:02:51.549Z"
+              "WhenOpened": "2024-11-24T22:02:51.549Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
@@ -116,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "PlayerFallHandler.cs",
               "DocumentMoniker": "E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\PlayerFallHandler.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerFallHandler.cs",
@@ -128,31 +160,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Enemy.cs",
               "DocumentMoniker": "E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
               "ToolTip": "E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\Enemy.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T17:33:55.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "ScoreManager.cs",
               "DocumentMoniker": "E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\ScoreManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
               "ToolTip": "E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\ScoreManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T17:14:14.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "DeadeyeController.cs",
               "DocumentMoniker": "E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\DeadeyeController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DeadeyeController.cs",
@@ -164,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "GunControllerRevo.cs",
               "DocumentMoniker": "E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\GunControllerRevo.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GunControllerRevo.cs",
@@ -176,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "GunController.cs",
               "DocumentMoniker": "E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\GunController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GunController.cs",
@@ -188,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Bullet.cs",
               "DocumentMoniker": "E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
@@ -200,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Gun.cs",
               "DocumentMoniker": "E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\Gun.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Gun.cs",
@@ -212,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "E:\\Unity\\motores1\\Motores1\\FPS\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",

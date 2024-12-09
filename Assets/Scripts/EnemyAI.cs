@@ -24,6 +24,9 @@ public class EnemyAI : MonoBehaviour
         // Mover hacia el jugador
         agent.SetDestination(player.position);
 
+        // Hacer que el enemigo mire al jugador
+        LookAtPlayer();
+
         // Calcular la distancia al jugador
         float distanceToPlayer = Vector3.Distance(transform.position, player.position);
 
@@ -40,6 +43,21 @@ public class EnemyAI : MonoBehaviour
 
         // Actualizar el temporizador de ataque
         attackTimer += Time.deltaTime;
+    }
+
+    void LookAtPlayer()
+    {
+        // Calcula la dirección hacia el jugador
+        Vector3 direction = (player.position - transform.position).normalized;
+
+        // Mantener la rotación solo en el eje Y
+        direction.y = 0;
+
+        // Crear la nueva rotación
+        Quaternion lookRotation = Quaternion.LookRotation(direction);
+
+        // Aplicar la rotación suavemente (opcional)
+        transform.rotation = Quaternion.Slerp(transform.rotation, lookRotation, Time.deltaTime * 5f);
     }
 
     void AttackPlayer()
